@@ -6,7 +6,7 @@ In the YouTube video I explain and demonstrate the circuit.
 
 # Check out the video:
 
-[![Watch the video](https://img.youtube.com/vi/fAoAL9PbcAg/maxresdefault.jpg)](https://youtu.be/fAoAL9PbcAg)
+[![Watch the video](https://img.youtube.com/IjlXLzsxZ88/maxresdefault.jpg)](https://youtu.be/IjlXLzsxZ88)
 
 # Schematic of Arduino PWM signal generator:  
 PWM signal from GPIO D9, works with Arduino Nano, Uno.  
