@@ -17,3 +17,4 @@ PWM signal from GPIO D9, works with Arduino Nano, Uno.
 # Files:  
   
 -Arduino Nano code
+With this code you can control the signal frequency and duty cycle via the serial monitor.  
