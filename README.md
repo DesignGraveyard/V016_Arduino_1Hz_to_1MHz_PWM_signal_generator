@@ -4,9 +4,9 @@ Build a PWM signal generator from 1Hz to 1MHz with adjustable duty cycle in 5 mi
 You only need one Arduino, you cen set the frequency and duty cycle via the Serial Monitor.
 In the YouTube video I explain and demonstrate the circuit.
 
-# Check out the video:
+# Check out the video <Click>:
 
-[![Watch the video](https://img.youtube.com/IjlXLzsxZ88/maxresdefault.jpg)](https://youtu.be/IjlXLzsxZ88)
+[![Watch the video](https://img.youtube.com/vi/IjlXLzsxZ88/maxresdefault.jpg)](https://youtu.be/IjlXLzsxZ88)  
 
 # Schematic of Arduino PWM signal generator:  
 PWM signal from GPIO D9, works with Arduino Nano, Uno.  
